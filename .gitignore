@@ -6,5 +6,6 @@ dist/
 wheels/
 *.egg-info
 example.db
+ExpenseTracker.db
 # Virtual environments
 .venv
